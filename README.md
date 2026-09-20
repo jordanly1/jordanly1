@@ -6,6 +6,24 @@
 - Looking for a software development internship
 - Interested in backend development, web applications, mobile development, and databases
 
+## Currently Working On
+
+### UrbanDynamics
+
+Currently developing a city simulator backend API using C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
+
+- Developing CRUD operations for buildings using DTOs, controllers, and repositories
+- Contributing to the database structure, including tables, relationships, and attributes
+
+## Certification
+
+Cisco Networking Academy — CCNA: Introduction to Networks  
+Course certificate earned in 2025
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/) · [GitHub](https://github.com/jordanly1) · [Email](mailto:jordanly0109@gmail.com)
+
 ## Current Skills
 
 ### Languages
@@ -45,20 +63,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-## Currently Working On
-
-### UrbanDynamics
-
-Currently developing a city simulator backend API using C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
-
-- Developing CRUD operations for buildings using DTOs, controllers, and repositories
-- Contributing to the database structure, including tables, relationships, and attributes
-
-## Certification
-
-Cisco Networking Academy — CCNA: Introduction to Networks  
-Course certificate earned in 2025
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/) · [GitHub](https://github.com/jordanly1) · [Email](mailto:jordanly0109@gmail.com)
