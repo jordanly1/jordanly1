@@ -20,10 +20,6 @@ Currently developing a city simulator backend API using C#, ASP.NET Core, Entity
 Cisco Networking Academy — CCNA: Introduction to Networks  
 Course certificate earned in 2025
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/) · [GitHub](https://github.com/jordanly1) · [Email](mailto:jordanly0109@gmail.com)
-
 ## Current Skills
 
 ### Languages
@@ -62,4 +58,9 @@ Course certificate earned in 2025
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/) · [GitHub](https://github.com/jordanly1) · [Email](mailto:jordanly0109@gmail.com)
 
