@@ -39,35 +39,20 @@
 ### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-## Projects
+## Currently Working On
 
 ### UrbanDynamics
 
-Urban simulation backend API developed with C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
+Currently developing a city simulator backend API using C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
 
-- Developed CRUD operations for buildings using DTOs, controllers, and repositories
-- Contributed to the database structure, tables, relationships, and attributes
-
-### Salon des cartes
-
-Full-stack application developed with React, Express.js, and MongoDB.
-
-- Implemented authentication, a product catalogue, a shopping cart, and user profiles
-- Connected the React interface to an Express API and MongoDB database
-
-### Android Application and Macro Maker
-
-- Built an Android application using Kotlin and Jetpack Compose
-- Created a Python tool that records and replays keyboard and mouse actions
+- Developing CRUD operations for buildings using DTOs, controllers, and repositories
+- Contributing to the database structure, including tables, relationships, and attributes
 
 ## Certification
 
@@ -76,6 +61,4 @@ Course certificate earned in 2025
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/)
-- [GitHub](https://github.com/jordanly1)
-- [Email](mailto:jordanly0109@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jordan-ly-7b247a389/) · [GitHub](https://github.com/jordanly1) · [Email](mailto:jordanly0109@gmail.com)
