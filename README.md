@@ -13,7 +13,6 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -21,6 +20,7 @@
 ### Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Frameworks and Libraries
 
@@ -48,13 +48,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-### Development Methods
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square)
-![Sprint Planning](https://img.shields.io/badge/Sprint_Planning-6554C0?style=flat-square)
-
 ## Projects
 
 ### UrbanDynamics
@@ -64,7 +57,7 @@ Urban simulation backend API developed with C#, ASP.NET Core, Entity Framework C
 - Developed CRUD operations for buildings using DTOs, controllers, and repositories
 - Contributed to the database structure, tables, relationships, and attributes
 
-### Trading Card Website
+### Salon des cartes
 
 Full-stack application developed with React, Express.js, and MongoDB.
 
